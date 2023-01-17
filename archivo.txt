@@ -1,1 +1,3 @@
 Acabo de editar lo que tengo ene sta rama
+texto de la rama test2
+Texto agregado en local para ver cambios
